@@ -1,0 +1,10 @@
+00 - Luffy
+01 - Zoro
+02 - Nami
+03 - Usopp
+04 - Sanji
+05 - Chopper
+06 - Nico Robin
+07 - Franky
+08 - Brook
+09 - Jimbei
